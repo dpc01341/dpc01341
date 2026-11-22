@@ -94,6 +94,62 @@ Passionate about improving healthcare operations through data-driven decision-ma
 
 ---
 
+
+---
+
+## 📂 Featured GitHub Repositories
+
+A selection of projects showcasing work across healthcare analytics, business intelligence, SQL, data engineering, and research.
+
+### 🏥 [Rural Healthcare Accessibility Index (RHAI)](https://github.com/dpc01341/Rural-Healthcare-Accessibility-Index--RHAI-)
+
+- Explores geographic accessibility to rural public healthcare facilities in Sindh, Pakistan.
+- Uses road-network travel-time analysis and geospatial data to examine healthcare accessibility.
+- Highlights gaps in open healthcare facility data and their impact on accessibility estimates.
+
+**Focus:** Healthcare Analytics · Geospatial Analysis · Python · Data Visualization
+
+### 📊 [Healthcare Data Analysis using Power BI](https://github.com/dpc01341/Healthcare-Data-Analysis-using-PowerBI)
+
+- Developed an interactive dashboard to explore hospital visitor trends and patient demographics.
+- Uses DAX and Power Query for data transformation, modeling, and KPI analysis.
+- Supports operational insights and healthcare resource optimization.
+
+**Focus:** Power BI · DAX · Power Query · Excel · Healthcare BI
+
+### 🗄️ [SQL Data Analysis & Visualization](https://github.com/dpc01341/sql-data-analysis-visualization)
+
+- Collection of SQL projects, practical exercises, and data analysis challenges.
+- Includes business-oriented analysis such as customer behavior, employee data, and international statistics.
+- Works with relational databases and visualization tools.
+
+**Focus:** SQL · MySQL · PostgreSQL · SQLite · Python · Tableau
+
+### ☁️ [Uber Data Analytics – GCP Project](https://github.com/dpc01341/data-analyatics-projct)
+
+- Explores a modern data engineering workflow using Uber trip data.
+- Uses Mage.ai to build ETL pipelines and Google Cloud Platform for data storage and processing.
+- Integrates BigQuery and Looker Studio for analytics and visualization.
+
+**Focus:** Python · SQL · GCP · BigQuery · Mage.ai · Looker Studio
+
+### 🧪 [Using MEPS Data for Simulations](https://github.com/dpc01341/Using-MEPS-data-for-simulations)
+
+- Contains workflows for healthcare survey-data simulations and statistical analysis.
+- Explores methods for analyzing healthcare expenditure, patient outcomes, and longitudinal data.
+- Includes R and Python examples for machine-learning models and predictive analysis.
+
+**Focus:** Healthcare Research · R · Python · Statistical Analysis · Machine Learning
+
+---
+
+<div align="center">
+
+[![Explore All Repositories](https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpc01341?tab=repositories)
+
+</div>
+
+
 ## 🎓 Education
 
 - **PhD in Business Administration and Management** — University of the Cumberlands *(Pursuing)*
