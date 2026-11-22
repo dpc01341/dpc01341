@@ -158,14 +158,32 @@ A selection of projects showcasing work across healthcare analytics, business in
 
 ---
 
-## 📊 GitHub Statistics
+
+---
+
+## 📊 GitHub Activity & Tech Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dpc01341&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpc01341&layout=compact&theme=tokyonight&hide_border=true" />
+### 💻 Development Activity
 
-<img src="https://streak-stats.demolab.com?user=dpc01341&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dpc01341&show_icons=true&hide=stars,prs,issues&hide_rank=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpc01341&layout=compact&langs_count=6&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" />
+
+### 📈 Contribution Activity
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dpc01341&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Explore my work and repositories**
+
+[![GitHub](https://img.shields.io/badge/Explore%20GitHub%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpc01341?tab=repositories)
 
 </div>
 
