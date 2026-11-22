@@ -5,7 +5,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Digvijay%20P.%20Chaudhari&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Healthcare%20Project%20Manager%20%7C%20Healthcare%20Analyst&descAlignY=55&descSize=16" width="100%" />
 
 [![Email](https://img.shields.io/badge/Email-dpc01341%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dpc01341@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-dpc01341-181717?style=for-the-badge&logo=github)](https://github.com/dpc01341)
 [![Phone](https://img.shields.io/badge/Phone-%2B1%20516--806--8807-2C5364?style=for-the-badge&logo=phone&logoColor=white)](tel:+15168068807)
 
 </div>
