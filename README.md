@@ -161,32 +161,45 @@ A selection of projects showcasing work across healthcare analytics, business in
 
 ---
 
-## 📊 GitHub Activity & Tech Stack
+---
+
+## 📊 GitHub Overview
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
+  
 ### 💻 Development Activity
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dpc01341&show_icons=true&hide=stars,prs,issues&hide_rank=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=dpc01341&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&custom_title=My%20GitHub%20Activity" width="100%" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpc01341&layout=compact&langs_count=6&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" />
+</td>
+<td align="center" width="50%">
 
-### 📈 Contribution Activity
+### 🧰 Technology Stack
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dpc01341&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpc01341&layout=donut&langs_count=6&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/1.4K%2B-Total%20Commits-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/6%2B-Technologies%20Used-238636?style=for-the-badge&logo=code&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/dpc01341?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
-
-<div align="center">
-
-**Explore my work and repositories**
-
-[![GitHub](https://img.shields.io/badge/Explore%20GitHub%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpc01341?tab=repositories)
-
-</div>
-
 ---
 
 ## 📫 Connect With Me
